@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.content{
+  
+    margin-top:40px;
+    color:rgb(233, 230, 222);
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Ysabeau Office', sans-serif;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 20px;
+}
+.option{
+    margin-top: 30px;
+}
+input:hover{
+    cursor: pointer;
+}
+.next{
+   margin-left: 230px;
+   margin-top: 50px;
+   width:80px;
+   height:30px;
+   background-color:#85c5f0;
+   color: aliceblue;
+   box-shadow: 5px 3px 5px rgb(91, 85, 85);
+}
+.next:hover{
+    cursor: pointer;
+}
+.submit{
+    text-decoration-line: none;
+}
+.timer{
+    text-align: center;
+    font-size: 30px;
+}
